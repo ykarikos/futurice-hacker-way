@@ -164,3 +164,8 @@ ul.clearlist {
 .clearlist li {
   list-style-type: none;
 }
+
+.node {
+  font-size: 15pt;
+  font-style: italic;
+}
