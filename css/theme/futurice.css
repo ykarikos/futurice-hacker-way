@@ -165,7 +165,16 @@ ul.clearlist {
   list-style-type: none;
 }
 
+.reveal li {
+  margin-top: 0.5em;
+}
+
 .node {
   font-size: 15pt;
   font-style: italic;
+}
+
+p.images img {
+  height: 150px;
+  margin-right: 40px;
 }
