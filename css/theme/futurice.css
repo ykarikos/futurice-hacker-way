@@ -135,7 +135,7 @@ body {
 
 /*********************************************
  * SLIDE NUMBER
- *********************************************/
+ **************************3******************/
 .reveal .slide-number {
   color: rgb(50,158,65);
 }
@@ -145,6 +145,10 @@ body {
  *********************************************/
 .reveal .slides .futurice-front1 {
   text-align: left;
+}
+
+.white, .white h1, .white h2, .white h3 {
+  color: #fff;
 }
 
 .reveal .futulogo {
@@ -168,8 +172,13 @@ ul.clearlist {
   margin-top: 0.5em;
 }
 
-.node {
-  font-size: 15pt;
+div.chart g {
+  font-size: 14pt;
+  font-style: italic;
+}
+
+div.radar g {
+  font-size: 13pt;
   font-style: italic;
 }
 
