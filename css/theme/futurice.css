@@ -5,7 +5,9 @@
  *
  * black: rgb(33,15,0);
  * green: rgb(50,158,65);
+ * yellow: rgb(255,240,70);
  * light teal: rgb(205,236,228);
+ * dark teal: rgb(0,90,75);
  */
 /*********************************************
  * GLOBAL STYLES
@@ -41,7 +43,7 @@ body {
   margin: 0 0 20px 0;
   color: rgb(33,15,0);
   font-family: "SharpSansNo1-Extrabold", "Raleway",  sans-serif;
-  line-height: 0.9em;
+  line-height: 1.2em;
   letter-spacing: 0.02em;
   text-transform: none;
   text-shadow: none;
@@ -51,7 +53,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: darkblue;
+  color: rgb(50,158,65);
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -61,7 +63,7 @@ body {
 }
 
 .reveal a:not(.image):hover {
-  color: #0000f1;
+  color: rgb(0,90,75);
   text-shadow: none;
   border: none;
 }
@@ -151,6 +153,10 @@ body {
   color: #fff;
 }
 
+.white a, .white a:not(.image) {
+  color: rgb(190, 195, 230);
+}
+
 .reveal .futulogo {
   position: relative;
   top: -4em;
@@ -188,8 +194,8 @@ p.images img {
 }
 
 p.big-images img {
-  height: 250px;
-  margin-right: 70px;
+  height: 210px;
+  margin-right: 50px;
 }
 
 p.images-wide img {
