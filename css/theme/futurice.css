@@ -187,6 +187,11 @@ p.images img {
   margin-right: 40px;
 }
 
+p.big-images img {
+  height: 250px;
+  margin-right: 70px;
+}
+
 p.images-wide img {
   width: 300px;
   margin-right: 70px;
