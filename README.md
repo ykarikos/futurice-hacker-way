@@ -1,4 +1,4 @@
-Futurice Reveal.js template
-===========================
+Futurice Hacker Way
+===================
 
-According to the new branding guidelines.
+Presentation about Futurice developer culture, held in [Futurice Technology after work event](http://www.eventbrite.com/e/futurice-technology-after-work-tickets-13382825391) in Oulu, 28.10.2014.
