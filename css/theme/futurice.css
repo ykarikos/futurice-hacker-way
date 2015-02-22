@@ -188,6 +188,13 @@ div.radar g {
   font-style: italic;
 }
 
+div.radar g.circle {
+  font-size: 22pt;
+  font-weight: bold;
+  font-style: normal;
+  fill: #999;
+}
+
 p.images img {
   height: 150px;
   margin-right: 40px;
